@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-<a href="https://wa.me/5548996348279?text=Hello+Lucas%2C+I+came+from+GitHub" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23E4405F?style=for-the-badge&logo=Whatsapp&logoColor=white"</a>
+<a href="https://wa.me/5548999490200?text=Hello+Lucas%2C+I+came+from+GitHub" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23E4405F?style=for-the-badge&logo=Whatsapp&logoColor=white"</a>
 </div>
   
 
