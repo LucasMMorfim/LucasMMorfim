@@ -48,7 +48,7 @@ Building scalable applications while constantly learning new technologies.
 
 ## 📊 GitHub Stats
 
-<img src="https://ghchart.rshah.org/LucasMMorfim" />
+<img src="https://ghchart.rshah.org/409ba5/LucasMMorfim" />
 
 ---
 
