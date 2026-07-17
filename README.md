@@ -48,9 +48,7 @@ Building scalable applications while constantly learning new technologies.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMMorfim&theme=github-dark"/>
-</p>
+<img src="https://ghchart.rshah.org/LucasMMorfim" />
 
 ---
 
