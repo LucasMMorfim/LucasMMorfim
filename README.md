@@ -46,12 +46,6 @@ Building scalable applications while constantly learning new technologies.
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://ghchart.rshah.org/LucasMMorfim" />
-
----
-
 ## 🔥 Current Focus
 
 - Building scalable web applications
